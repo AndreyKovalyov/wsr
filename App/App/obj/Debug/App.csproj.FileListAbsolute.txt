@@ -1,0 +1,12 @@
+F:\Programms\My Git\WSR new\App\App\bin\Debug\App.exe.config
+F:\Programms\My Git\WSR new\App\App\bin\Debug\App.exe
+F:\Programms\My Git\WSR new\App\App\bin\Debug\App.pdb
+F:\Programms\My Git\WSR new\App\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+F:\Programms\My Git\WSR new\App\App\obj\Debug\App.Form1.resources
+F:\Programms\My Git\WSR new\App\App\obj\Debug\App.Properties.Resources.resources
+F:\Programms\My Git\WSR new\App\App\obj\Debug\App.csproj.GenerateResource.Cache
+F:\Programms\My Git\WSR new\App\App\obj\Debug\App.exe
+F:\Programms\My Git\WSR new\App\App\obj\Debug\App.pdb
+F:\Programms\My Git\WSR new\App\App\obj\Debug\App.Form2.resources
+F:\Programms\My Git\WSR new\App\App\obj\Debug\App.Reg_sponsor.resources
+F:\Programms\My Git\WSR new\App\App\obj\Debug\App.Fond.resources
